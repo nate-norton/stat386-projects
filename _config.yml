@@ -23,7 +23,7 @@ email: nathan26norton@gmail.com # Add your email
 description: This is my blog for Stats386 and future learning!
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://nate-norton.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image.jpg"
+image: "assets/images/image.JPG"
 author: Nathan Norton
 copyright: nrn # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
