@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "My project 1"
-date:   2022-08-02
-author: Project Author
-description: This is a cool project.
-image: 
+title:  "Essential Data Science Skills Not Taught in the Classroom"
+date:   2022-09-28
+author: Nathan Norton
+description: Blog Tutorial Project
+image: /assets/images/DSCF0690.JPG
 ---
 
 Blog content
