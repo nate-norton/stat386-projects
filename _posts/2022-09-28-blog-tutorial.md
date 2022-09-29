@@ -21,7 +21,7 @@ There are three big ways you can properly visualize your data to **UNDERSTAND** 
 
 
 ## 1. What's your story?
-Before creating any visuals or adding any charts, ask yourself: What’s the story? What story am I trying to convey? What do I want my consumers to learn from this report? Why am I making this? Take your time during this step, it is arguably the most important. Having a solid purpose while creating your report will help keep you focused and precise. Remember what the Cheshire cat said, "If you don’t know where you are going any road can take you there." 
+**Before creating any visuals or adding any charts, ask yourself: What’s the story?** What story am I trying to convey? What do I want my consumers to learn from this report? Why am I making this? Take your time during this step, it is arguably the most important. Having a solid purpose while creating your report will help keep you focused and precise. Remember what the Cheshire cat said, "If you don’t know where you are going any road can take you there." 
 
 [Image Source](https://eric.ed.gov/?id=EJ997652)
 
@@ -30,7 +30,7 @@ Before creating any visuals or adding any charts, ask yourself: What’s the sto
 
 
 ## 2. Keep it stupid simple
-Once you have identified your story, start adding visuals to your report. Add visuals, cards, and statistics that will help tell your story. Bar charts, tables, and pie charts are a great place to start. However, only add visuals that help tell your story. It can be easy to get excited in programs such as Tableau or Power B, but don’t get carried away be very intentional on what you are adding and why. Having too much information in your report can actually be confusing and intimidating to the consumer. Your goal is to take a complex data set and make it digestible and bite-sized! It’s like writing a research paper with graphs, charts, and key points of interest but write as simple and directly as possible.
+Once you have identified your story, start adding visuals to your report. Add visuals, cards, and statistics that will help tell your story. Bar charts, tables, and pie charts are a great place to start. However, only add visuals that help tell your story. It can be easy to get excited in programs such as Tableau or Power B, but don’t get carried away be very intentional on what you are adding and why. **Having too much information in your report can actually be confusing and intimidating to the consumer.** Your goal is to take a complex data set and **make it digestible and bite-sized**! It’s like writing a research paper with graphs, charts, and key points of interest but write as simple and directly as possible.
 
 ### Here are some bad examples
 ##### This image has too many variables rendering it useless
@@ -46,7 +46,7 @@ Once you have identified your story, start adding visuals to your report. Add vi
 
 
 ## 3. Follow the Z-pattern
-Once you have identified your story and added key visuals. Present your visuals like a book. Do what is most natural to the human eye and place your visuals in a Z-pattern. The most important real estate on your report is in the top left corner, most reader’s eyes will land there first. Then, in order of importance, continue placing your visuals in a zig-zag pattern until finished. This will create a visual hierarchy helping the reader know what information is most important.
+Once you have identified your story and added key visuals. **Present your visuals like a book**. Do what is most natural to the human eye and place your visuals in a Z-pattern. The most important real estate on your report is in the top left corner, most reader’s eyes will land there first. Then, in order of importance, continue placing your visuals in a zig-zag pattern until finished. This will create a visual hierarchy helping the reader know what information is most important.
 
 ![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/z_pattern.jpg)
 [Image Source](https://cloudsonmars.com/understanding-layout/)
