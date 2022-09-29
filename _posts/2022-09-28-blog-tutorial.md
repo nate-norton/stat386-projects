@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Proper Data Visualization to Understand the Elephant"
+title:  "Helping Others See the Elephant"
 date:   2022-09-28
 author: Nathan Norton
 description: Blog Tutorial Project
@@ -12,9 +12,9 @@ image: /assets/images/blind_elephant.jpeg
 # The Blind Men and an Elephant
 A group of blind men wandered through the jungle when they came upon an elephant. Because they had never seen an elephant they did not know what it looked like, so they relied on their touch to find out. Each man started to feel a different part of the animal, one described the tusks as being smooth yet sharp so he determined this animal must be holding a spear. Another felt its trunk and was scared he had just stumbled upon a snake. Each man described the animal in completely different ways. While they were all correct in what they saw and felt, they all had a completely different image of what this animal looked like. They needed a guide, someone who could see the whole picture to guide them around elephant and help them truly understand what they were feeling. That is where **YOU** come in.
 
-Big data is like the elephant, and it is your job to help the blind see the full picture. A data scientist's job is to break down huge amounts of data, analyze it, and present it in a way that could be understood by everyone. However, if your work is presented poorly, the blind will be even more confused. Clear, concise, and direct data visualization is vital in a world that loves data. 
+Big data is like the elephant, and it is your job to help the blind see the full picture. A data scientist's job is to break down huge amounts of data, analyze it, and present it in a way that could be understood by everyone. However, if your work is presented poorly, the blind will be even more confused. In a world that is overflowing with data, simple and elegant data visualization is key to helping others see the elephant. 
 
-There are three big ways you can properly visualize your data to **UNDERSTAND** the elephant: *what's your story, keep it stupid simple, and follow the z-pattern.*
+Here are **three big tips** to simply and elegantly visualize your data: *what's your story, keep it stupid simple, and follow the z-pattern.*
 
 ![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/blind_elephant.jpeg)
 
