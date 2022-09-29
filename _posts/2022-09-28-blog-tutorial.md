@@ -15,12 +15,13 @@ A group of blind men wandered through the jungle when they came upon an elephant
 Big data is like the elephant, and it is your job to help the blind see the full picture. A data scientist's job is to break down huge amounts of data, analyze it, and present it in a way that could be understood by everyone. However, if your work is presented poorly, the blind will be even more confused. Clear, concise, and direct data visualization is vital in a world that loves data. 
 
 There are three big ways you can properly visualize your data to **UNDERSTAND** the elephant: *what's your story, keep it stupid simple, and format like a book.*
+
 ![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/blind_elephant.jpeg)
 
 # What's Your Story?
 Before creating any visuals or adding any charts, ask yourself: what’s the story? What story are you trying to convey? What do you want your consumers to learn from this report? WHY are you making this? Take your time during this step, it is arguably the most important. Remember what the Cheshire cat said, "If you don’t know where you are going any road can take you there." [https://eric.ed.gov/?id=EJ997652](#)
 
-![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/chesirecat.jpg)
+![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/cheshirecat.jpg)
 
 # Keep it Stupid Simple
 Once you have identified your story, start adding visuals to your report. Add visuals, cards, and statistics that will help you tell your story. Bar charts, tables, and pie charts are a great place to start. However, only add data that helps you tell your story. It can be easy to get excited in programs such as Tableau or Power B, but don’t get carried away be very intentional on what you are adding and why. Your goal is to take a complex data set and make it digestible for the consumer of your report. It’s like you a writing a research paper, but you are writing with graphs, charts, and key points of interest. Write as though you are presenting a simple one page summary and not a scholarly peer-reviewed essay. 
