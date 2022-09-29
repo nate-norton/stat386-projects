@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Eat an Elephant through Proper Data Visualization"
+title:  "Using Proper Data Visualization to Understand the Elephant"
 date:   2022-09-28
 author: Nathan Norton
 description: Blog Tutorial Project
@@ -9,18 +9,28 @@ image: /assets/images/blind_elephant.jpeg
 
 
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+# The Blind Men and an Elephant
+A group of blind men wandered through the jungle when they came upon an elephant. Because they had never seen an elephant they did not know what it looked like, so they relied on their touch to find out. Each man started to feel a different part of the animal, one described the tusks as being smooth yet sharp so he determined this animal must be holding a spear. Another felt its trunk and was scared he had just stumbled upon a snake. Each man described the animal in completely different ways. While they were all correct in what they saw and felt, they all had a completely different image of what this animal looked like. They needed a guide, someone who could see the whole picture to guide them around. That is where **YOU** come in.
 
-**Bold Text in the post will look like:**<br>
-**This text is Bold**
+Big data is like the elephant, and it is your job to help the blind see the full picture. A data scientist's job is to break down huge amounts of data, analyze it, and present it in a way that could be understood by everyone. However, if your work is presented poorly, the blind will be even more confused. Clear, concise, and direct data visualization is vital in a world that loves data. 
 
-**Italic Text in the post will look like:**<br>
-*This text is Italic*
+There are three big ways you can properly visualize your data to **UNDERSTAND** the elephant: *what's your story, keep it stupid simple, and format like a book.*
+![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/blind_elephant.jpeg)
+
+# What's Your Story?
+Before creating any visuals or adding any charts, ask yourself: what’s the story? What story are you trying to convey? What do you want your consumers to learn from this report? WHY are you making this? Take your time during this step, it is arguably the most important. Remember what the Cheshire cat said, "If you don’t know where you are going any road can take you there." [https://eric.ed.gov/?id=EJ997652](#)
+
+![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/chesirecat.jpg)
+
+# Keep it Stupid Simple
+Once you have identified your story, start adding visuals to your report. Add visuals, cards, and statistics that will help you tell your story. Bar charts, tables, and pie charts are a great place to start. However, only add data that helps you tell your story. It can be easy to get excited in programs such as Tableau or Power B, but don’t get carried away be very intentional on what you are adding and why. Your goal is to take a complex data set and make it digestible for the consumer of your report. It’s like you a writing a research paper, but you are writing with graphs, charts, and key points of interest. Write as though you are presenting a simple one page summary and not a scholarly peer-reviewed essay. 
+* Reduce # of variables
+
+# Pattern Your Report Like a Book
+Once you have identified your story and added key visuals. Present your visuals like a book. Do what is most natural to the human eye and place your visuals in a Z-pattern. The most important real estate on your report is in the top left corner, most reader’s eyes will land here first. Then in order of importance, continue placing your visuals in a zig-zag pattern until finished. This will create a visual hierarchy and a well-designed report.
+
+![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/z_pattern.jpg)
+[https://cloudsonmars.com/understanding-layout/](#)
 
 > Quotes on your post will look like this
 
@@ -28,32 +38,6 @@ image: /assets/images/blind_elephant.jpeg
 
 **Link in the post will look like:**<br>
 [This is a link](#)
-
-**Bullet list in the post will look like:**
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
-
-**Number list in the post will look like:**
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
-5. Item 5
-
-**Images in the post will look like:**<br>
-![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/elephant.png)
-
-**Normal text in the post will look like**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
-
-Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.
-
-Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.
-
-Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.
 
 **Giphy Gifs will look like:**<br>
 <iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
