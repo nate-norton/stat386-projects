@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Essential Data Science Skills Not Taught in the Classroom"
+title:  "How to Eat an Elephant through Proper Data Visualization"
 date:   2022-09-28
 author: Nathan Norton
 description: Blog Tutorial Project
-image: /assets/images/image2.JPG
+image: /assets/images/blind_elephant.jpeg
 ---
 
 
