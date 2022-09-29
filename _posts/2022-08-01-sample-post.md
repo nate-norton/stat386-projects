@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Sample Post"
-date:   2022-08-01 11:24:47 -0700
-author: Shannon Tass
-description: A sample post to show how the content will look and how different
-  headlines, quotes and codes will be represented.
-image: /assets/images/image5.jpg
+title:  "Essential Data Science Skills Not Taught in the Classroom"
+date:   2022-09-28
+author: Nathan Norton
+description: Blog Tutorial Project
+image: /assets/images/DSCF0690.JPG
 ---
 
 
