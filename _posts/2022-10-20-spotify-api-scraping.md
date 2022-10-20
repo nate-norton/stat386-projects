@@ -4,13 +4,13 @@ title:  "Using Spotify's API and Spotipy to create a dataset of 'The Best Songs 
 date:   2022-10-20
 author: Nate Norton
 description: This is a cool project.
-image: /assets/images/spotify_logo.jpg
+image: /assets/images/spotify_logo2.jpg
 ---
 
-## 
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_logo.png)
 
-<img src="https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_logo.png", alt="", style=width:200px;"/>
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_capture2.png)
+
+<img src="https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_logo2.png", alt="", style=width:200px;"/>
 
 You need to include some information about how you determined that it was ethical / allowable to get the data that you gathered and/or how you implemented good scraping practice.
 Keep in mind the principles of good blogging (easy to read, images and figures to enhance, relevant and interesting, etc.)
