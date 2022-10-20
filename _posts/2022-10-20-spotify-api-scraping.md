@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Spotify's API and Spotipy to create a dataset of '1000 of the Greatests Hits Ever'"
+title:  "Using Spotify's API to create a dataset of '1000 of the Greatests Hits Ever'"
 date:   2022-10-20
 author: Nate Norton
 description: This is a cool project.
