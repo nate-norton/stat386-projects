@@ -4,7 +4,7 @@ title:  "Using Spotify's API to create a dataset of '1000 of the Greatests Hits 
 date:   2022-10-20
 author: Nate Norton
 description: This is a cool project.
-image: /assets/images/spotify_cover.jpg
+image: /assets/images/spotify_dev.png
 ---
 
 
@@ -15,8 +15,6 @@ Have you ever wondered how Spotify has achieved it's success? I know I have and 
 
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/python.png)
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png)     
-
-<img src="https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png", alt="", style=width:400px;"/>
 
 # Accessing the API                          
 In 2014 Spotify made their metadata about artists, albums, playlists, and songs publicly available for anyone to access. One of the reasons they did this was so that external developers could access this data and write programs for apps, smart home gadgets, and anything linked to Spotify. The provide easy documentation of how to access their API on this [Website](https://developer.spotify.com/documentation/web-api/_.
