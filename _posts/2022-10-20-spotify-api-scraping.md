@@ -8,7 +8,9 @@ image: /assets/images/spotify_logo.jpg
 ---
 
 ## 
-![Test Image](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_logo.png)
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_logo.png)
+
+<img src="https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_logo.png", alt="", style=width:200px;"/>
 
 You need to include some information about how you determined that it was ethical / allowable to get the data that you gathered and/or how you implemented good scraping practice.
 Keep in mind the principles of good blogging (easy to read, images and figures to enhance, relevant and interesting, etc.)
