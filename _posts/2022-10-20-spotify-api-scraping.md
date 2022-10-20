@@ -4,7 +4,7 @@ title:  "Using Spotify's API and Spotipy to create a dataset of '1000 of the Gre
 date:   2022-10-20
 author: Nate Norton
 description: This is a cool project.
-image: /assets/images/spotify_logo2.jpg
+image: /assets/images/spotify_cover.jpg
 ---
 
 
