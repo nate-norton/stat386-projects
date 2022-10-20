@@ -16,6 +16,8 @@ Have you ever wondered how Spotify has achieved it's success? I know I have and 
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/python.png)
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png)     
 
+<img src="https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png", alt="", style=width:400px;"/>
+
 # Accessing the API                          
 In 2014 Spotify made their metadata about artists, albums, playlists, and songs publicly available for anyone to access. One of the reasons they did this was so that external developers could access this data and write programs for apps, smart home gadgets, and anything linked to Spotify. The provide easy documentation of how to access their API on this [Website](https://developer.spotify.com/documentation/web-api/_.
 
@@ -61,12 +63,10 @@ for track in playlist:
    for feature in playlist_features_list[4:]:
        playlist_features[feature] = audio_features[feature]
 ```
-
-After calling the function this is the resulting dataframe. It includes basic information about each song including variables Spotify created such as danceability, loudness, speechiness, and insturmentalness.
+# Conclusion
+This is the resulting dataframe after calling the function. It includes basic information about each song including unique measurements that Spotify has created such as: danceability, loudness, speechiness, and insturmentalness.
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_table.png)
 
-I really enjoyed learning how to scrape date from the Spotify API. It gave me a behind the scenes look into the workings of the Spotify's algorithms and company. In my next  post I will be doing a exploratory data analysis of this data set to answer questions such as: What makes a song a greatest hit? Does danceability have a greater effect than speechiness? What are the key indicators to great music?
+I really enjoyed learning how to scrape data from the Spotify API. It gave me a behind the scenes look into the workings of the Spotify's algorithms and company. In my next post I will be doing an exploratory data analysis of this dataframe to answer questions such as: What makes a song a greatest hit? Does danceability have a greater effect than speechiness? What are the key indicators to a greatest hit?
 
 If you would like to see my code and final dataset, here is a [Git Hub Repo](https://github.com/nate-norton/Spotify-API-Repo).
-
-Include a link to your GitHub repo
