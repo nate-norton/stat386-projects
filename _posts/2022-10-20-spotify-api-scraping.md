@@ -3,9 +3,38 @@ layout: post
 title:  "Using Spotify's API to create a dataset of '1000 of the Greatests Hits Ever'"
 date:   2022-10-20
 author: Nate Norton
-description: This is a cool project.
+description: Exploring the Python API
 image: /assets/images/spotify_dev.png
 ---
+
+
+
+
+**Introduction**
+
+Imagine this... descriptive relaxing... listening to spotify.... new song comes on... how that works... the data behind it. 
+
+Exploring previous data set 
+
+
+
+ADD 5 - 10 figures here. explain each one and provide a few sentences of interpretation or explanation
+
+**CONCLUSION**
+
+Main findings and a hint of the story of the data
+If you would like to see my code and final dataset, here is a [Git Hub Repo](https://github.com/nate-norton/Spotify-API-Repo).
+  
+# ADD thats all folks giphy
+
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/python.png)
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png)     
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_table.png)
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_capture2.png)
+
+
+**Previous Blog Post**
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_capture2.png)
