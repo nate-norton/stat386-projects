@@ -13,11 +13,12 @@ The way that recommendation algorithms are able to discover who I am, what I lik
 
 Each song on Spotify has what is called "_audio features_". These audio features are ways that they have found to meausure quantitatively what makes a song unique! For the sake of understanding the data visuals down below, I will include the defintions and explanations for just a few of Spotify's audio features, even though many are self explanatory. Here is where I found the following info, [Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features).
 
+
 **Variables**
 
-_Danceability_: "How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm     stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable."
+ _Danceability_: "How suitable a track is for dancing based on a combination of musical elements including tempo, rhythm     stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable."
     
-_Energy_: "A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy."
+ _Energy_: "A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy."
    
 _Loudness_: "The overall loudness of a track in decibels (dB). Loudness values are averaged across the entire track and are useful for comparing relative loudness of tracks. Loudness is the quality of a sound that is the primary psychological correlate of physical strength (amplitude). Values typically range between -60 and 0 db."
     
@@ -35,6 +36,8 @@ _Popularity_: A value calculated using the frequency of listens in comparisons t
     
 _Duration_: Length of track in seconds.
     
+    
+ 
 _**What trends do unique Spotify variables have over the last 50 years?**_
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/trends.png)
 Explanation
