@@ -59,7 +59,7 @@ Explanation
 Photo
 
 _**What trends do unique Spotify variables have over the last 50 years?**_
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/trends.png)
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/percent_difference.png)
 Explanation
 Photo
 
