@@ -7,6 +7,9 @@ description: Exploring the Python API
 image: /assets/images/spotify_dev.png
 ---
 
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png)     
+
+
 Imagine you are driving home, the sun is setting, the sky is full of colors, and youre jamming out to some of your favorite tunes. As one song fades out another song begins, but you've never heard this one before. Your playlist ended and Spotify "randomly" began to play a song. It turns out that you love this song and discover a new favorite artist. This is what Spotify specializes in, their _recommendation algorithm_ is one of the best in the industry. 
 
 The way that recommendation algorithms are able to discover who I am, what I like, and what I am looking for has always amazed me. It's a little bit unsettling how accurate they can be but nonetheless I enjoy them. By diving deep into the data set that I previously extracted using the spotfy API (*see previous blog post down below*), we are able to uncover a small portion of how Spotifies recommendation algorithms work. 
@@ -44,26 +47,32 @@ This figure aims to see basic trends of various unqiue variables over the last 5
 
 _**Can linear regression help us see correlation between certain variables?**_
 In this figure I decided to examine danceability, speechiness, and instrumentalness and their correlation with popularity. In a very uninteresting turn of events, speechiness and instrumentalness had almost zero effect on the popularity of the song. However, there is slight correlation between danceability and popularity, as danceability increased, so did popularity. But, only slightly.
+
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/regression_three.png)
 
 _**Is there correlation between other variables?**_
 Following the thought process in the previous section, I chose to to use a heatmap to see if there was any correlation among the variables. Again, this was rather uneventful and disappointing. There was almost no correlation between any of the variables. Nothing of significance. The closer the value to 1 the better, but in this case our highest number was only 0.11.
+
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/heatmap.png)
 
 _**How do the variable averages change for the top 10 songs?**_
 I wondered if the lack of correlation was due to the imperfect playlist. There were many "greatest hits" on this list that had a popularity of zero. I thought it could be relevant to see if variable averages of the top 10 songs was different from the dataset averages! The first row of the table is the full data set, the second row is the top 10 songs, and the bottom row is the percent change between the first two rows!
+
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/comparison_percentages.png)
 
 This chart helps visualize the findings from the upper table! It graphs the percentage change for each variable! As we can see, instrumentalness had a very large change. Meaning the most popular songs were more likely to contain vocals. This may be an outlier but could be an interesting finding. Songs in the top 10 were less likely to be live recordings. However, we can see that songs in the top 10 were more likely to contain speaking lines!
+
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/percent_difference.png)
 
 _**What are the top 10 most popular songs in this dataset?**_
 It is always intersting to see the actual songs behind the data, this table displays the top 1o songs with the highest popularity values in our dataset.
+
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/top_10.png)
 
 
 
-**CONCLUSION**
+**In Conclusion**
+
 Understanding the Spotify recommendation algorithms is diffiuclt and complicated but by looking deeper into the dataset and using visauls I was able to gain a better understanding of how it works. I also have a deeper desire to learn more about how machine learning algorithms work, this dataset only contains a fraction of the variables that go into recommending songs to listeners!
 
 Thank you for reading my blog post! I hope that it was an informative and informational experience!
@@ -87,9 +96,22 @@ If you would like to see my code and final dataset, here is my [Git Hub Repo](ht
 
 
 
+
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------
 **Previous Blog Post**
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_capture2.png)
                                       
