@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Using Spotify's API to create a dataset of '1000 of the Greatests Hits Ever'"
-date:   2022-10-20
+title:  "Recommendation Algorithms: A Sneakpeak Using Spotify's API"
+date:   2022-11-21
 author: Nate Norton
 description: Exploring the Python API
 image: /assets/images/spotify_dev.png
@@ -36,49 +36,52 @@ _Popularity_: A value calculated using the frequency of listens in comparisons t
     
 _Duration_: Length of track in seconds.
     
-    
+ 
  
 _**What trends do unique Spotify variables have over the last 50 years?**_
+This figure aims to see basic trends of various unqiue variables over the last 50 years. We look at the variables: popularity, danceability, speechiness, and instrumentalness. Each figure shows the calculated average for each decade and puts it on a lineplot. You can see that many of the older songs on this playlist that have achieved "greatest songs ever" levels are much more popular than the newer songs. You can also see that the average danceability levels remained about the same. Speechiness had a lot of variety but most songs didn't have much talking in them anywyas. Instrumentalness sees a huge spike in the 2000's then returns back to normal.
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/trends.png)
-Explanation
-Photo
 
-_**What trends do unique Spotify variables have over the last 50 years?**_
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/top_10.png)
-Explanation
-Photo
-
-_**What trends do unique Spotify variables have over the last 50 years?**_
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/comparison_percentages.png)
-Explanation
-Photo
-
-_**What trends do unique Spotify variables have over the last 50 years?**_
+_**Can linear regression help us see correlation between certain variables?**_
+In this figure I decided to examine danceability, speechiness, and instrumentalness and their correlation with popularity. In a very uninteresting turn of events, speechiness and instrumentalness had almost zero effect on the popularity of the song. However, there is slight correlation between danceability and popularity, as danceability increased, so did popularity. But, only slightly.
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/regression_three.png)
-Explanation
-Photo
 
-_**What trends do unique Spotify variables have over the last 50 years?**_
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/percent_difference.png)
-Explanation
-Photo
-
-_**What trends do unique Spotify variables have over the last 50 years?**_
+_**Is there correlation between other variables?**_
+Following the thought process in the previous section, I chose to to use a heatmap to see if there was any correlation among the variables. Again, this was rather uneventful and disappointing. There was almost no correlation between any of the variables. Nothing of significance. The closer the value to 1 the better, but in this case our highest number was only 0.11.
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/heatmap.png)
-Explanation
-Photo
+
+_**How do the variable averages change for the top 10 songs?**_
+I wondered if the lack of correlation was due to the imperfect playlist. There were many "greatest hits" on this list that had a popularity of zero. I thought it could be relevant to see if variable averages of the top 10 songs was different from the dataset averages! The first row of the table is the full data set, the second row is the top 10 songs, and the bottom row is the percent change between the first two rows!
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/comparison_percentages.png)
+
+This chart helps visualize the findings from the upper table! It graphs the percentage change for each variable! As we can see, instrumentalness had a very large change. Meaning the most popular songs were more likely to contain vocals. This may be an outlier but could be an interesting finding. Songs in the top 10 were less likely to be live recordings. However, we can see that songs in the top 10 were more likely to contain speaking lines!
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/percent_difference.png)
+
+_**What are the top 10 most popular songs in this dataset?**_
+It is always intersting to see the actual songs behind the data, this table displays the top 1o songs with the highest popularity values in our dataset.
+![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/top_10.png)
 
 
 
 **CONCLUSION**
+Understanding the Spotify recommendation algorithms is diffiuclt and complicated but by looking deeper into the dataset and using visauls I was able to gain a better understanding of how it works. I also have a deeper desire to learn more about how machine learning algorithms work, this dataset only contains a fraction of the variables that go into recommending songs to listeners!
 
-If you would like to see my code and final dataset, here is a [Git Hub Repo](https://github.com/nate-norton/Spotify-API-Repo).
-  
-# ADD thats all folks giphy
+Thank you for reading my blog post! I hope that it was an informative and informational experience!
 
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png)     
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_table.png)
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_capture2.png)
+If you would like to see my code and final dataset, here is my [Git Hub Repo](https://github.com/nate-norton/Spotify-API-Repo).
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
