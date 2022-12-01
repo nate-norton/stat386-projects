@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nate's Blog # Make a title for your blog
+title: Nate's Blog Exploring Data Sceince Principles! # Make a title for your blog
 email: nathan26norton@gmail.com # Add your email 
-description: This is my blog for Stats386 and future learning!
+description: Hello! Welcome to my blog where I can share with you what I have learned about data science lately!
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://nate-norton.github.io" #  change this to "https://<your-github-username>.github.io"
 image: "assets/images/image.JPG"
@@ -30,11 +30,11 @@ copyright: nrn # Your initials or what you want the copyright to be.  Leave empt
 # Social media users names.  Leave fields blank that you don't want displayed
 twitter_username: 
 github_username:  nate-norton
-linkedin_username: 
+linkedin_username: www.linkedin.com/in/nathan-norton-725498229
 dribbble_username: 
-facebook_username: 
+facebook_username: Nathan Norton
 flickr_username:
-instagram_username: nate.nortonn
+instagram_username: natenortonn
 pinterest_username:
 youtube_username: 
 googleplus_username: 
