@@ -1,26 +1,22 @@
 
 ---
 layout: post
-title:  "FINAL BLOG POST"
+title:  "An Inside Look Into What Makes Spotify's Algorithms Work"
 date:   2022-12-06
 author: Nate Norton
-description: Exploring the Python API
-image: /assets/images/spotify_dev.png
+description: The result of my spotify APA research
+image: /assets/images/spotify_background.png
 ---
 
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_dev.png)     
 
-
-Imagine you are driving home, the sun is setting, the sky is full of colors, and youre jamming out to some of your favorite tunes. As one song fades out another song begins, but you've never heard this one before. Your playlist ended and Spotify "randomly" began to play a song. It turns out that you love this song and discover a new favorite artist. This is what Spotify specializes in, their _recommendation algorithm_ is one of the best in the industry. 
-
-The way that recommendation algorithms are able to discover who I am, what I like, and what I am looking for has always amazed me. It's a little bit unsettling how accurate they can be but nonetheless I enjoy them. By diving deep into the data set that I previously extracted using the spotfy API (*see previous blog post down below*), we are able to uncover a small portion of how Spotifies recommendation algorithms work. 
-
-Each song on Spotify has what is called "_audio features_". These audio features are ways that they have found to meausure quantitatively what makes a song unique! For the sake of understanding the data visuals down below, I will include the defintions and explanations for just a few of Spotify's audio features, even though many are self explanatory. Here is where I found the following info, [Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features).
-
-# Conclusion
-This is the resulting dataframe after calling the function. It includes basic information about each song including unique measurements that Spotify has created such as: danceability, loudness, speechiness, and insturmentalness.
-![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/spotify_table.png)
-
-I really enjoyed learning how to scrape data from the Spotify API. It gave me a behind the scenes look into the workings of the Spotify's algorithms and company. In my next post I will be doing an exploratory data analysis of this dataframe to answer questions such as: What makes a song a greatest hit? Does danceability have a greater effect than speechiness? What are the key indicators to a greatest hit?
-
+summarize entire project (1-2 paragraphs)
 If you would like to see my code and final dataset, here is a [Git Hub Repo](https://github.com/nate-norton/Spotify-API-Repo).
+
+summarize data story (1 paragraph)
+
+GRAPHIC
+- answer to my first question
+- self contained
+- visually appealing
+- completeness of story
