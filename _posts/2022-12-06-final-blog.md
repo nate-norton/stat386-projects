@@ -22,7 +22,6 @@ Here is the graph that shows these findings.
 summarize data story (1 paragraph)
 
 ![Figure](https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/data_story.png)  
-<img src="https://raw.githubusercontent.com/nate-norton/stat386-projects/main/assets/images/data_story.png" width="3000" height="750">
 
 GRAPHIC
 - answer to my first question
