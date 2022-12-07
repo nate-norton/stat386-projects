@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nate's Blog Exploring Data Sceince Principles! # Make a title for your blog
+title: Nate's Blog Exploring Data Science Principles! # Make a title for your blog
 email: nathan26norton@gmail.com # Add your email 
 description: Hello! Welcome to my blog where I can share with you what I have learned about data science lately!
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
