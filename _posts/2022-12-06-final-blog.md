@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "An Inside Look Into What Makes Spotify's Algorithms Work"
