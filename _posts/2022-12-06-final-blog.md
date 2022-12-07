@@ -4,7 +4,7 @@ title:  "An Inside Look Into What Makes a Greatest Hit"
 date:   2022-12-06
 author: Nate Norton
 description: A short story about Spotify data and Greatest Hits.
-image: /assets/images/spotify_background.png
+image: /assets/images/spotify_background.jpg
 ---
 
 # What Makes a Greatest Hit?
