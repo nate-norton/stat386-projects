@@ -23,7 +23,7 @@ email: nathan26norton@gmail.com # Add your email
 description: Hello! Welcome to my blog where I can share with you what I have learned about data science lately!
 baseurl: "/stat386-projects" # keep this the same or change it to the name of the repository 
 url: "https://nate-norton.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/image.JPG"
+image: "assets/images/blog.JPG"
 author: Nathan Norton
 copyright: nrn # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
